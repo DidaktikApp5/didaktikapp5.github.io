@@ -58,11 +58,19 @@ body {
   margin-bottom: 0;
 }
 
-/* Añadido */
+/* Añadidos */
+
 p, .slider_section .detail-box p, .hero_area p {
   font-size: 1.2rem !important;
   line-height: 1.4 !important;
 }
+
+li, .slider_section .detail-box li, .hero_area li {
+  font-size: 1.2rem !important;
+  line-height: 1.4 !important;
+}
+
+/* Fin de los añadidos */
 
 .heading_container.heading_center {
   -webkit-box-align: center;
